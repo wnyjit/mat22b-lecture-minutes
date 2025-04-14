@@ -11,15 +11,15 @@ the minute associated with a topic is not dead accurate. the topic covered is us
 the usual organization form:
 
 
-+=+=+=+=+=+=+=+= month - date day lecture/discussion +=+=+=+=+=+=+=+=
++=+=+=+=+=+=+=+= month - date day lecture +=+=+=+=+=+=+=+=
 topic - minute (usually +-1,2 minutes of topic actually being brought up)
   subtopic - minute
-+=+=+=+=+=+=+=+= month - date day lecture/discussion +=+=+=+=+=+=+=+=
++=+=+=+=+=+=+=+= month - date day lecture +=+=+=+=+=+=+=+=
 
 ================================================================================================================================    <<<---- day seperator
 ================================================================================================================================
 
-+=+=+=+=+=+=+=+= month - date day lecture/discussion +=+=+=+=+=+=+=+=
++=+=+=+=+=+=+=+= month - date day lecture +=+=+=+=+=+=+=+=
 topic - minute 
   subtopic - minute
-+=+=+=+=+=+=+=+= month - date day lecture/discussion +=+=+=+=+=+=+=+=
++=+=+=+=+=+=+=+= month - date day lecture +=+=+=+=+=+=+=+=
