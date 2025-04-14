@@ -1,0 +1,118 @@
+
+================================================================================================================================
+================================================================================================================================
+
++=+=+=+=+=+=+=+= 3 - 31 monday lecture +=+=+=+=+=+=+=+= 
+logistics - 5
+
+course introduction and definitions - 9
+	differential equation DE - 9
+		two kinds of DE, ordinary partial DE, ODE PDE - 11
+		solution of DE - 13
+	goals of course - 19
+		newtons law - 20
+
+easy example of ODE,,, rabbit population - 23
+
+initial value problem IVP - 30
+	steps to solving - 33
+
+Direction Fields to solve ODE - 38
+	how to draw DF - 52
++=+=+=+=+=+=+=+= 3 - 31 monday lecture +=+=+=+=+=+=+=+=
+
+================================================================================================================================
+================================================================================================================================
+
++=+=+=+=+=+=+=+= 4 - 2 wednesday lecture +=+=+=+=+=+=+=+=
+directional fields DF - 3
+	isocline method - 4
+		example - 8
+
+solving ODE computationally - 24
+	the clever method - 30
+
+order of an ODE - 39
+
+linear non linear ODE - 48
++=+=+=+=+=+=+=+= 4 - 2 wednesday lecture +=+=+=+=+=+=+=+=
+
+================================================================================================================================
+================================================================================================================================
+
++=+=+=+=+=+=+=+= 4 - 4 friday lecture +=+=+=+=+=+=+=+=
+first order differential equation - 3
+	linear ODE - 4
+		example - 7
+			the trick to it - 13
+				procedure - 27
+		example - 31
+		example - 37
++=+=+=+=+=+=+=+= 4 - 4 friday lecture +=+=+=+=+=+=+=+=
+
+================================================================================================================================
+================================================================================================================================
+
++=+=+=+=+=+=+=+= 4 - 7 monday lecture +=+=+=+=+=+=+=+=
+seperable ODE - 4
+	example - 6
+	general procedure - 14
+	the engineer method - 16
+		example - 20
+		IVP example - 23
+	
+modeling phenomena using diff eq - 30
+	general principles and process - 32
+	
+	water container example - 40
+		solving - 50
++=+=+=+=+=+=+=+= 4 - 7 monday lecture +=+=+=+=+=+=+=+=
+
+================================================================================================================================
+================================================================================================================================
+
++=+=+=+=+=+=+=+= 4 - 9 wednesday lecture +=+=+=+=+=+=+=+=
+no mic until 22 - 3
+finishing water container example - 4
+
+existance / uniqueness theorem 1 - 22
+	theorem 1,,, unique - 26
+	example - 29
+	example - 47
++=+=+=+=+=+=+=+= 4 - 9 wednesday lecture +=+=+=+=+=+=+=+=
+
+================================================================================================================================
+================================================================================================================================
+
++=+=+=+=+=+=+=+= 4 - 11 friday lecture +=+=+=+=+=+=+=+= 
+uniqueness and existance of ODE - 4
+	uniqueness example - 7
+non linear general ODE, theorem 2,,, local existance and uniqueness - 13
+	lipschitz continuous - 15 (shit lips)
+		remark - 21
+			it suffices to check that the derivative of f w/ respect to y is continuous on some fixed interval - 21
+		example - 26
+			on choosing the bounds of t,y - 28
+		more remarks - 34
+			the theorem is applicable for linear ODE - 34
+			two solutions may not intersect eachother - 39
+				why this example fails - 41
+global existance,,, theorem 3 - 48
+	example - 51
+
+picard lindelof theorems - 52
++=+=+=+=+=+=+=+= 4 - 11 friday lecture +=+=+=+=+=+=+=+=
+
+================================================================================================================================
+================================================================================================================================
+
++=+=+=+=+=+=+=+= 4 - 14 monday lecture +=+=+=+=+=+=+=+=
+
++=+=+=+=+=+=+=+= 4 - 14 monday lecture +=+=+=+=+=+=+=+=
+
+================================================================================================================================
+================================================================================================================================
+
++=+=+=+=+=+=+=+= 4 - 16 wednesday lecture +=+=+=+=+=+=+=+=
+
++=+=+=+=+=+=+=+= 4 - 16 wednesday lecture +=+=+=+=+=+=+=+=
