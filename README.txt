@@ -1,7 +1,7 @@
 >>>>>>>>>>>>>>>>>>>>>DESIGNED TO USE IN TANDEM WITH THE "CANVAS MEDIA GALERY"<<<<<<<<<<<<<<<<<
 ive decided to release my collection of lecture minutes in the hopes that it aids you in your study like it has for me 
 
-spelling is not universal and THERE ARE TYPOS, so if "ctrl-f" doesnt catch it then check with different spelling(for example, go vs golang,, ambiguous vs ambiguos,, backus-naur vs backus naur vs BNF)
+spelling is not universal and THERE ARE TYPOS, so if "ctrl-f" doesnt catch it then check with different spelling(for example, DE vs diff eq,, existance vs existence,, first order vs 1st order)
 
 im also not the most thorough, so THERE ARE TOPICS THAT CAN BE MISSED 
 
@@ -16,7 +16,7 @@ topic - minute (usually +-1,2 minutes of topic actually being brought up)
   subtopic - minute
 +=+=+=+=+=+=+=+= month - date day lecture/discussion +=+=+=+=+=+=+=+=
 
-================================================================================================================================    <<<---- day seperator (thursday discussion & lecture are same day)
+================================================================================================================================    <<<---- day seperator
 ================================================================================================================================
 
 +=+=+=+=+=+=+=+= month - date day lecture/discussion +=+=+=+=+=+=+=+=
