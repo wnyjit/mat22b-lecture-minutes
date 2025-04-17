@@ -107,12 +107,30 @@ picard lindelof theorems - 52
 ================================================================================================================================
 
 +=+=+=+=+=+=+=+= 4 - 14 monday lecture +=+=+=+=+=+=+=+=
+global vs local existance and uniqueness - 3
+	example - 5
 
+autonomous differential equations - 18
+	example - 20
+		equilibirum points - 22
+		stable or unstable equilibrium - 26
+			definition of stable - 32
+	example - 36
 +=+=+=+=+=+=+=+= 4 - 14 monday lecture +=+=+=+=+=+=+=+=
 
 ================================================================================================================================
 ================================================================================================================================
 
 +=+=+=+=+=+=+=+= 4 - 16 wednesday lecture +=+=+=+=+=+=+=+=
+autonomous differential equations continued - 3
+	logistic population model - 4
+	equilibrium points - 6
+		stable, unstable equilibrium - 8
 
+euler's method,, numerical approach to solving DE - 14
+	goal & method - 15
+	example - 17
+	example - 38
+		step size - 39	
+		compare with solution - 50	
 +=+=+=+=+=+=+=+= 4 - 16 wednesday lecture +=+=+=+=+=+=+=+=
