@@ -133,4 +133,4 @@ euler's method,, numerical approach to solving DE - 14
 	example - 38
 		step size - 39	
 		compare with solution - 50	
-+=+=+=+=+=+=+=+= 4 - 16 wednesday lecture +=+=+=+=+=+=+=+=
++=+=+=+=+=+=+=+= 4 - 16 wednesday lecture +=+=+=+=+=+=+=+= 
