@@ -133,4 +133,19 @@ euler's method,, numerical approach to solving DE - 14
 	example - 38
 		step size - 39	
 		compare with solution - 50	
-+=+=+=+=+=+=+=+= 4 - 16 wednesday lecture +=+=+=+=+=+=+=+= 
++=+=+=+=+=+=+=+= 4 - 16 wednesday lecture +=+=+=+=+=+=+=+=
+
+================================================================================================================================
+================================================================================================================================
+
++=+=+=+=+=+=+=+= 4 - 18 friday lecture +=+=+=+=+=+=+=+=
+continuing euler method - 3
+	numerical inaccuracies - 4
+		example - 4
+		remark on diverging solutions not working - 17
+
+picard's iteration methods,, the idea behind the existence and uniqueness theorem - 20
+	remark on - 31
+	the method - 33
+	example - 42
++=+=+=+=+=+=+=+= 4 - 18 friday lecture +=+=+=+=+=+=+=+=
