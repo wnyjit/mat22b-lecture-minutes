@@ -149,3 +149,41 @@ picard's iteration methods,, the idea behind the existence and uniqueness theore
 	the method - 33
 	example - 42
 +=+=+=+=+=+=+=+= 4 - 18 friday lecture +=+=+=+=+=+=+=+=
+
+================================================================================================================================
+================================================================================================================================
+
++=+=+=+=+=+=+=+= 4 - 21 monday lecture +=+=+=+=+=+=+=+=
+first order difference equations (not differential. difference) - 4
+	what the difference is - 7
+	example - 8
+		equilibrium solution - 11
+		in homogenous linear - 17
+		computing using geometric - 24
+	example, paying off bank loan - 34
+	example, non linear difference equation- 47
++=+=+=+=+=+=+=+= 4 - 21 monday lecture +=+=+=+=+=+=+=+=
+
+================================================================================================================================
+================================================================================================================================
+
++=+=+=+=+=+=+=+= 4 - 23 wednesday lecture +=+=+=+=+=+=+=+= (midterm 1)
+nothing :)
++=+=+=+=+=+=+=+= 4 - 23 wednesday lecture +=+=+=+=+=+=+=+= (midterm 1)
+
+================================================================================================================================
+================================================================================================================================
+
++=+=+=+=+=+=+=+= 4 - 25 friday lecture +=+=+=+=+=+=+=+=
+continuing non linear difference equation from earlier - 4
+	equilibrium solution - 5
+	stable or unstable - 6
+		when we can neglect terms - 9
+
+intro to second order ordinary differential equations - 21
+	what they can model - 22
+	intro to linearly homogeneous equations with constant coefficients - 28
+		method to solve - 36
+		example - 43
+	how to solve IVP - 48
++=+=+=+=+=+=+=+= 4 - 25 friday lecture +=+=+=+=+=+=+=+=
